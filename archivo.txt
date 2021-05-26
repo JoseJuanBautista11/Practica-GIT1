@@ -1,2 +1,3 @@
 Nuevo archivo de texto
-Editar el archivo txt
+Editar el archivo texto
+Este es un archivo de texto creado en el repositorio de GitHub
