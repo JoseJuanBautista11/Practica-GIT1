@@ -1,1 +1,2 @@
 Nuevo archivo de texto
+Editar el archivo txt
